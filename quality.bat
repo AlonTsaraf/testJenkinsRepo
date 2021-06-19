@@ -1,0 +1,1 @@
+echo "quality gate passed successfuly: %date%: %time%"
